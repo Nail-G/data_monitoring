@@ -1,0 +1,54 @@
+*{
+    /* overflow: hidden; */
+    font-family: 'Playfair', serif;
+    font-weight: 300;
+    font-size: medium;
+    font-family: 'Oswald', sans-serif;
+
+}
+  .container-kanan{
+    color: #fff;
+    position: absolute;
+    margin-bottom: 50px;
+    left: 50%;
+    background-color: #343957;
+    width: 50%;
+    height: 100%;
+    border-radius: 4px;
+
+}
+.container-kanan h1{
+    padding-left: 205px;
+    margin-top: 20vh;
+
+
+}
+
+.kelas{
+    position: absolute;
+    left: 20%;
+    margin-top: 10%;
+}
+
+.corner-image {
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    width: 20%;
+
+}
+
+.corner-image2{
+    top: 25%;
+    left: 6%;
+    position: absolute;
+    width:40%
+}
+
+
+.btn.btn-primary {
+    background-color: #fff;
+  }
+
+
+
